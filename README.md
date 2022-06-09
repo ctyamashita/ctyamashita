@@ -6,7 +6,7 @@
 <a href="https://instagram.com/ctyamashita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctyamashita" height="30" width="40" /></a>
 </p>
 
-<p>I'm a web developer living in Japan. I like DIY stuff 👨‍🔧, cats 🐈 and drawing🎨.</p>
+<p>I like DIY stuff 👨‍🔧, <a href="https://www.deviantart.com/74qx">drawing</a>🎨 and <a href="https://instagram.com/kyuuko_cat_adventures">cats</a>🐈.</p>
 
 📫 How to reach me **ctyamashita@hotmail.com**
 
