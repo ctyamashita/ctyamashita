@@ -2,7 +2,7 @@
 
 <h3 align="right">Connect with me</h3>
 <p align="right">
-<a href="https://linkedin.com/in/celsoty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celsoty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ctyamashita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="celsoty" height="30" width="40" /></a>
 <a href="https://instagram.com/ctyamashita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctyamashita" height="30" width="40" /></a>
 </p>
 
